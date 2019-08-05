@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75cf8adb-b10b-4ea8-a621-c46650514a28" name="Default Changelist" comment="First Deploy">
-      <change afterPath="$PROJECT_DIR$/developing-blockchain-models/.gitignore" afterDir="false" />
+    <list default="true" id="75cf8adb-b10b-4ea8-a621-c46650514a28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,16 +15,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/developing-blockchain-models/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/developing-blockchain-models/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/developing-blockchain-models/block.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/developing-blockchain-models/blockchain.js" />
         <option value="$PROJECT_DIR$/developing-blockchain-models/BlockchainNode.js" />
         <option value="$PROJECT_DIR$/developing-blockchain-models/transaction.js" />
-        <option value="$PROJECT_DIR$/developing-blockchain-models/readme.txt" />
         <option value="$PROJECT_DIR$/developing-blockchain-models/.gitignore" />
+        <option value="$PROJECT_DIR$/developing-blockchain-models/readme.txt" />
       </list>
     </option>
   </component>
@@ -134,7 +134,7 @@
             <path>
               <item name="BlockChain" type="b2602c69:ProjectViewProjectNode" />
               <item name="BlockChain" type="462c0819:PsiDirectoryNode" />
-              <item name="developing-blockchain-models" type="462c0819:PsiDirectoryNode" />
+              <item name="Blockchain With Smart Contract" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -172,18 +173,25 @@
       <option name="presentableId" value="Default" />
       <updated>1564695628601</updated>
       <workItem from="1564695629859" duration="520000" />
-      <workItem from="1564833549280" duration="4729000" />
+      <workItem from="1564833549280" duration="5454000" />
     </task>
+    <task id="LOCAL-00001" summary="First Deploy">
+      <created>1565029586057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565029586057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5249000" />
+    <option name="totallyTimeSpent" value="5974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="24" width="2520" height="1416" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -195,7 +203,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289777" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289777" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -204,6 +212,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Deploy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/developing-blockchain-models 2/block.js" />
@@ -264,7 +276,7 @@
     <entry file="file://$PROJECT_DIR$/developing-blockchain-models/block.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -289,17 +301,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/developing-blockchain-models/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/developing-blockchain-models/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/developing-blockchain-models/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
