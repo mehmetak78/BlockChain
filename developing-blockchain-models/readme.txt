@@ -12,6 +12,6 @@ Open PostMan
     - Register Nodes : 3002
 
     - Resolve : 3001
-    - Get Blockchain : 3001 ( will be updated by th transactions in the longest block chain) (see it)
+    - Get Blockchain : 3001 ( will be updated by th transactions in the longest block chain) (see it )
 
 
