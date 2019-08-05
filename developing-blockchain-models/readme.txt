@@ -1,4 +1,7 @@
 
+https://www.udemy.com/blockchain-programming-using-javascript/
+Section 1-6
+
 Run 3 servers
     MEHMETs-MacBook-Pro:developing-blockchain-models mehmetak$ nodemon app.js 3000
     MEHMETs-MacBook-Pro:developing-blockchain-models mehmetak$ nodemon app.js 3001
