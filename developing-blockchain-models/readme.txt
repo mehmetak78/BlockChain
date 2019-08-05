@@ -6,7 +6,7 @@ Run 3 servers
 
 Open PostMan
     - Add Transaction
-    - Mine
+    - Mine & Add Block : 3000
     - Register Nodes : 3000
     - Register Nodes : 3001
     - Register Nodes : 3002
